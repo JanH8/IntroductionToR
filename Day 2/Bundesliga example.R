@@ -1,5 +1,5 @@
 bundesliga = read.csv(
-  "Bundesliga22_Halbzeit.csv",
+  "Day 2/Bundesliga22_Halbzeit.csv",
   sep = ";",
   stringsAsFactors = TRUE,
   colClasses = c(
